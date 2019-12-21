@@ -1,10 +1,10 @@
-###URL Grabber Tool
+### URL Grabber Tool
 
 It's simply allow you to GET from URL lots of files. It checks on 404 page status for filtering garbage output, but not anything else like 502 or so.
 
 Also you can find BINNARYS for every popular OS/Architecture.
 
-###Exapmle:
+### Exapmle:
 
 Like this:
 https://example.com/dir/dir/*IDWITH_NUMBERS*/somthing/image.jpg
@@ -15,7 +15,7 @@ https://example.com/dir/dir/DCIM*IDWITH_NUMBERS*.raw
 Or even this:
 https://example.com/dir/dir/*IDWITH_NUMBERS*.zip
 
-###Config:
+### Config:
 
 You must set ENV variables for:
 
